@@ -46,5 +46,4 @@ Welcome to the Simple Quiz Game! This is a basic Python game where players answe
 5. Run the game by typing `python quiz_game.py` and press Enter.
 6. Follow the prompts to play the game.
 
-## Example Output
 
